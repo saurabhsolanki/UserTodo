@@ -1,0 +1,77 @@
+{
+  "tasks": [
+    {
+      "title": "hello",
+      "id": 1
+    },
+    {
+      "title": "hrr",
+      "id": 2
+    },
+    {
+      "title": "sau",
+      "id": 3
+    },
+    {
+      "title": "sam",
+      "id": 4
+    },
+    {
+      "title": "veer",
+      "id": 5
+    }
+  ],
+  "signup": [
+    {
+      "email": "s@gmail.com",
+      "name": "Saurabh",
+      "password": "1234",
+      "cpassword": "1234",
+      "id": 1
+    },
+    {
+      "email": "a@agmail.com",
+      "name": "ankush",
+      "password": "1234",
+      "cpassword": "1234",
+      "id": 2
+    }
+  ],
+  "login": [
+    {
+      "email": "s@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "email": "a@agmail.com",
+      "password": "1234",
+      "id": 7
+    }
+  ]
+}
